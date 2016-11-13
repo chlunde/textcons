@@ -1,0 +1,25 @@
+/ p \___/ Sense
+\___/   \
+    \___/
+
+Welcome to pfSense 2.3-RELEASE on the 'cdrom' platform...
+
+Mounting unionfs directories...done.
+Creating symlinks......ELF ldconfig path: /lib /usr/lib /usr/lib/compat /usr/loc
+al/lib /usr/local/lib/ipsec
+32-bit compatibility ldconfig path: /usr/lib32
+done.
+>>> Under 512 megabytes of ram detected.  Not enabling opcache
+Launching the init system....... done.
+Initializing.................. done.
+Starting device manager (devd)...done.
+
+[ Press R to enter recovery mode or ]
+[  press I to launch the installer  ]
+
+(R)ecovery mode can assist by rescuing config.xml
+from a broken hard disk installation, etc.
+
+(I)nstaller will be invoked
+
+Timeout before auto boot continues (seconds): 9█ 
